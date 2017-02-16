@@ -5,7 +5,7 @@ Class to create and edit 2 dimensional Matrices
 Includes functions to convert the Matrix to REF and RREF
 
 Sample output:
-```{r, engine='bash', code_block_name}
+```
 [1.0, 2.0, 2.0, 4.0]
 [1.0, 3.0, 3.0, 5.0]
 [2.0, 6.0, 5.0, 6.0]
