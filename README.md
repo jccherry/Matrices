@@ -1,8 +1,8 @@
-#Matrices
+# Matrices
 
 Class to create and edit 2 dimensional Matrices
 
-Includes functions to convert the Matrix to REF and RREF
+Includes functions to convert the Matrix to REF and RREF with my own implementation of Gauss-Jordan Elimination
 
 Sample output:
 ```
